@@ -1,0 +1,14 @@
+{
+  "name": "guess_game_2",
+  "version": "1.0.0",
+  "description": "guess game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ruba",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
